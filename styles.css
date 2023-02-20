@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    background: rgb(199, 142, 225);
+}
+
+
+h1{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 140px;
+    font-size: 60px;
+}
+.dicebox{
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin:0 auto;
+}
+
+img{
+   height:140px;
+   width:140px 
+}
+.footer{
+    text-align: center;
+    margin-top:100px
+}
+.dice p{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
